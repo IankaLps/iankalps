@@ -12,7 +12,7 @@
 
 <img align="right" height="250" src="https://img1.picmix.com/output/stamp/normal/4/4/1/3/2613144_8dbe2.gif"  />
 
-### 💻 Linguagens
+## 💻 Linguagens
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
