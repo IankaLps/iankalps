@@ -16,7 +16,7 @@
 <div align="center">
   <h2>
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="25" height="20">
-    Languages and Frameworks
+    Languages, Frameworks & Tools
   </h2>
 </div>
 
