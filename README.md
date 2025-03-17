@@ -12,7 +12,6 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=IankaLps&hide=jupyter%20notebook&langs_count=8&layout=compact&hide_border=true&show_icons=true&title_color=ff437a&icon_color=b262fd&text_color=ffadc4&theme=neon" />
 </a>
 
-<br><br><br>
 
 <div align="center">
   <h2>
