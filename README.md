@@ -30,5 +30,5 @@
 <h2 align="center">🤝🏻 Conecte-se comigo!</h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/iankalps/"><img src="https://img.shields.io/badge/-Meu%20LinkedIn-ff437a?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://mailto:iankk_lps@outlook.com"><img src="https://img.shields.io/badge/-Email-ff437a?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:iankk_lps@outlook.com"><img src="https://img.shields.io/badge/-Email-ff437a?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> 
